@@ -1,0 +1,4 @@
+// The program input for hello/src/main.leo
+[main]
+public a: u16 = 1u16;
+b: u16 = 2u16;
